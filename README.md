@@ -1,1 +1,1 @@
-# river-waste-cpllector
+# river-waste-collector
